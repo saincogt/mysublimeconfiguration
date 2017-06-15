@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Babel",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr_with_update_capability",
+		"Emmet",
+		"FuzzyFileNav",
+		"FuzzyFilePath",
+		"JsFormat",
+		"MarkdownHighlighting",
+		"Monokai JSON+",
+		"Neon Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"Pug",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-contrib-sqlint",
+		"SublimeTmpl",
+		"Syntax Highlighting for Sass"
+	]
+}

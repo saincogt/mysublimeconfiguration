@@ -1,0 +1,40 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"command": "expand_abbreviation_by_tab",
+	"context":
+	[
+		{
+			"key": "selector",
+			"match_all": true,
+			"operand": "meta.group.braces.round.js, text.html",
+			"operator": "equal"
+		},
+		{
+			"key": "selection_empty",
+			"match_all": true
+		},
+		{
+			"key": "has_next_field",
+			"match_all": true,
+			"operand": false,
+			"operator": "equal"
+		},
+		{
+			"key": "auto_complete_visible",
+			"match_all": true,
+			"operand": false,
+			"operator": "equal"
+		},
+		{
+			"key": "is_abbreviation",
+			"match_all": true
+		}
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"theme": "Boxy Monokai.sublime-theme",
+	"update_check": false
+}
